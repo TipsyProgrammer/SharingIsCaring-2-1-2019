@@ -1,0 +1,17 @@
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\Engine.dll
+C:\Users\Mark\Repository\Svc\UnitTests\bin\Debug\netcoreapp2.1\Engine.pdb
+C:\Users\Mark\Repository\Svc\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+C:\Users\Mark\Repository\Svc\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Repository\Svc\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Mark\Repository\Svc\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+C:\Users\Mark\Repository\Svc\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CopyComplete
+C:\Users\Mark\Repository\Svc\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+C:\Users\Mark\Repository\Svc\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb

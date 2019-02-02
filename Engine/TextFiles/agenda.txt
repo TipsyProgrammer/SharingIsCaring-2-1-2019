@@ -1,0 +1,88 @@
+Rider:
+really cool IDE (Jetbrains) - Resharper is already installed! more customization, seems to be a lighter framework... but it costs $$ :(
+
+Exception First Test Cases - writing your TDD code with exceptions in mind first:
+Pros:
+- Makes you breakdown a program into specific jobs/classes in order see what happens if one fails
+- ^^ indirectly forces you to guard against bad input AND bad data
+- REALLY makes reading error logs much, much easier
+- makes you reread business requirements
+- makes you dive deep into behavior driven development
+
+Cons:
+- makes you reread business requirements
+- it takes discipline (just like TDD)
+- its much harder to do this with existing systems that you inherited
+- 
+
+
+
+
+Business Need:
+When program runs, go to xml file (index file), locates all file names that end with ".jpg" or ".pdf" (there will at least be one)within index file. 
+These ".jpg" and ".pdf" are the names of the files that are also within the same directory as index that need to be zipped and emailed. Archive the file
+
+
+Things that can go wrong:
+1) what if no xml file when program runs?
+2) what if theres more than one xml?
+2) what if nothing inside of xml file with ".jpg" or ".pdf"
+3) what if files could not be located with the same directory?
+4) what if cant zip the file (file is too big)?
+
+
+
+Classes/Jobs:
+XmlFinder finds the XML
+ImageFinder reads important stuff
+ImageMover moves one image to the prezip file
+Zipper zips up the file
+
+Emailsender sends the email
+BairdLogger logs stuff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var fullPathOfXml = _xmlFinder.LocateFullXmlPath();
+
+            var listOfImageNames = _imageFinder.LocateImageNamesFromIndexFile(fullPathOfXml);
+
+            foreach (var image in listOfImageNames)
+            {
+                try
+                {
+                    _imageMover.MoveImage(image, "to/happy/land");
+                }
+                catch (Exception exception)
+                {
+                    _bairdLogger.LogException(exception);
+                }
+            }

@@ -1,0 +1,17 @@
+C:\Users\Mark\Repository\Svc\Svc\obj\Debug\netcoreapp2.1\Svc.csprojAssemblyReference.cache
+C:\Users\Mark\Repository\Svc\Svc\obj\Debug\netcoreapp2.1\Svc.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Repository\Svc\Svc\obj\Debug\netcoreapp2.1\Svc.AssemblyInfoInputs.cache
+C:\Users\Mark\Repository\Svc\Svc\obj\Debug\netcoreapp2.1\Svc.AssemblyInfo.cs
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\Svc.deps.json
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\Svc.runtimeconfig.json
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\Svc.runtimeconfig.dev.json
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\Svc.dll
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\Svc.pdb
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\Engine.dll
+C:\Users\Mark\Repository\Svc\Svc\bin\Debug\netcoreapp2.1\Engine.pdb
+C:\Users\Mark\Repository\Svc\Svc\obj\Debug\netcoreapp2.1\Svc.csproj.CopyComplete
+C:\Users\Mark\Repository\Svc\Svc\obj\Debug\netcoreapp2.1\Svc.dll
+C:\Users\Mark\Repository\Svc\Svc\obj\Debug\netcoreapp2.1\Svc.pdb
